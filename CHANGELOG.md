@@ -4,6 +4,10 @@
 
 ## v0.0.2 - 2018-07-17
 
+## v1.0.1 - 2018-07-19
+
+* Feat: Add npm auto-publish [Giovanni Garufi]
+
 ## v1.0.0 - 2018-07-18
 
 * Sixth: Sixth change [Giovanni Garufi]
